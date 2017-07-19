@@ -1,5 +1,6 @@
 {
   "name": "react-router-firebase-auth",
+  "homepage": "http://gianfaye.com/react-router-firebase-auth/"
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
