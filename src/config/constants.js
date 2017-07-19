@@ -1,9 +1,12 @@
 import firebase from 'firebase'
 
 const config = {
-  apiKey: "AIzaSyDHL6JFTyBcaV60WpE4yXfeO0aZbzA9Xbk",
-  authDomain: "practice-auth.firebaseapp.com",
-  databaseURL: "https://practice-auth.firebaseio.com",
+  apiKey: "AIzaSyA6oHwAtevqU92vGBHVhxU4lJrYo2TI_C8",
+  authDomain: "testreactfire.firebaseapp.com",
+  databaseURL: "https://testreactfire.firebaseio.com",
+  projectId: "testreactfire",
+  storageBucket: "testreactfire.appspot.com",
+  messagingSenderId: "908423657399"
 }
 
 firebase.initializeApp(config)
