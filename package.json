@@ -16,7 +16,7 @@
     "heroku",
     "express"
   ],
-  "license": "MIT"
+  "license": "MIT",
   "devDependencies": {
     "git-directory-deploy": "^1.5.1",
     "react-scripts": "^0.9.5"
