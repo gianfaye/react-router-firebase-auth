@@ -3,6 +3,20 @@
   "homepage": "https://sleepy-beyond-46140.herokuapp.com",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "6.11.1"
+  },
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gianfaye/react-router-firebase-auth/"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
   "devDependencies": {
     "git-directory-deploy": "^1.5.1",
     "react-scripts": "^0.9.5"
@@ -15,7 +29,7 @@
     "react-router-dom": "^4.1.2"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node index.js",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
