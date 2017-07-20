@@ -15,3 +15,5 @@ This is an example repo for authenticating with Firebase and React Router.
 * ```npm install```
 * ```npm start```
 * Visit ```localhost:3000```
+
+Forked.
