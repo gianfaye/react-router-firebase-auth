@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": "6.11.1"
+    "node": "9.2.1"
   },
   "main": "src/index.js",
   "repository": {
