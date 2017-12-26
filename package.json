@@ -1,8 +1,7 @@
 {
   "name": "react-router-firebase-auth",
   "homepage": "https://sleepy-beyond-46140.herokuapp.com",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
   "engines": {
     "node": "9.3.0"
   },
