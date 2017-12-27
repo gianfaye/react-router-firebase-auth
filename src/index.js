@@ -1,9 +1,2 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './components';
-import './index.css';
-
-ReactDOM.render(
-  <App />,
-  document.getElementById('root')
-);
+require = require("@std/esm")(module);
+module.exports = require("./main.mjs").default;
